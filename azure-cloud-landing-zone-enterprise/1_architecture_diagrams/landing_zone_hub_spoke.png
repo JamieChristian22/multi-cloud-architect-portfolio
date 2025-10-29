@@ -1,0 +1,6 @@
+PNG PLACEHOLDER
+Describe visually:
+- Hub VNet with Firewall, Bastion, Private DNS, Log Analytics
+- Spoke VNet (Prod) with subnets: web, api, data
+- App Gateway (WAF) -> App Service -> Container Apps(API) -> Private Endpoint -> Azure SQL
+- Central Log Analytics + Defender for Cloud
