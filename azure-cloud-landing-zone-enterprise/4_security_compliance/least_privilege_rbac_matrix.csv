@@ -1,5 +1,0 @@
-Role,Scope,Permissions,Team
-Network Contributor,Hub RG,VNet/Subnet/Peering mgmt,CloudOps
-Contributor,Workload RG,App Service / Container Apps mgmt,AppTeam
-Security Reader,Subscription,Security findings / Defender for Cloud,SecurityTeam
-Key Vault Secrets Officer,Key Vault,Rotate secrets / no full Owner,SecurityTeam
