@@ -1,5 +1,22 @@
 # 🌐 Multi-Cloud Architect Portfolio  
-### AWS | Azure | GCP | Data Engineering | Analytics | Machine Learning | IaC (Terraform)
+<p align="center">
+
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Architect-orange?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+
+  <!-- Azure -->
+  <img src="https://img.shields.io/badge/Azure-Solutions%20Architect-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+
+  <!-- GCP -->
+  <img src="https://img.shields.io/badge/GCP-Cloud%20Engineer-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
+
+  <!-- Terraform -->
+  <img src="https://img.shields.io/badge/Terraform-IaC%20Automation-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" />
+
+  <!-- Architecture -->
+  <img src="https://img.shields.io/badge/Enterprise%20Architecture-Multi--Cloud%20Design-0A0A0A?logo=archlinux&logoColor=white&style=for-the-badge" />
+
+</p>
 
 Welcome to my **Multi-Cloud Architect Portfolio**, a complete, job-ready, end-to-end enterprise architecture project designed to showcase deep expertise across **AWS**, **Azure**, and **Google Cloud Platform (GCP)**.
 
