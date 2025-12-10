@@ -28,8 +28,27 @@ This repository contains a full real-world case study built for a fictional glob
 - Machine learning deployment strategy  
 - Terraform IaC for all three clouds  
 - Production-grade operations, governance, DR, and security  
+----
+## 🔎 How to Review This Portfolio in 5 Minutes
 
-Everything is **fully written, complete, and production-quality** — no placeholders.
+1. **Start with the architecture diagrams**  
+   `multi-cloud-architecture-case-study/diagram/all-multi-cloud-diagrams/`
+
+2. **Read the cloud-specific architecture deep dives:**  
+   - AWS: `03-detailed-architecture-aws.md`  
+   - Azure: `04-detailed-architecture-azure.md`  
+   - GCP: `05-detailed-architecture-gcp.md`
+
+3. **Review the IaC structure**  
+   `infrastructure-as-code/terraform/`
+
+4. **Check security + governance design**  
+   `multi-cloud-architecture-case-study/security/`
+
+5. **Finish with ML lifecycle**  
+   `multi-cloud-ml-lifecycle.png`
+
+> This gives a complete understanding of the NovaRetail multi-cloud platform in under 5 minutes.
 
 ---
 
