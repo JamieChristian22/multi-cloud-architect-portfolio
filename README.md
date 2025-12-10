@@ -1,1 +1,0 @@
-# multi-cloud-architect-portfolio
