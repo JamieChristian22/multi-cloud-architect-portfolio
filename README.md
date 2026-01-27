@@ -153,4 +153,3 @@ If you want a smooth narrative flow, read the documents in this order:
 8. `case-study/08-operations-monitoring-and-dr.md`  
 9. `case-study/09-cost-and-scaling-considerations.md`
 
-You now have a **10/10 multi‑cloud architecture case study** that is ready to show to hiring managers, cloud architects, or technical interview panels.
