@@ -6,6 +6,32 @@ The project is designed to be **portfolio‑ready**: everything here is fully wr
 
 ---
 
+## Start here · Architecture case and evidence map
+
+![NovaRetail multi-cloud architecture diagram](case-study/images/case-study_architecture-diagrams_aws-azure-gcp.png)
+
+| Review question | Primary document |
+| --- | --- |
+| What problem are we solving? | [Requirements and constraints](case-study/01-business-context-and-requirements.md) |
+| What is the overall architecture? | [Solution overview](case-study/02-solution-overview.md) · [Data flow and integration](case-study/06-data-flow-and-integration.md) |
+| What changes across AWS / Azure / GCP? | [AWS](case-study/03-detailed-architecture-aws.md) · [Azure](case-study/04-detailed-architecture-azure.md) · [Google Cloud](case-study/05-detailed-architecture-gcp.md) |
+| Is infrastructure specified as code? | [Terraform examples](infrastructure-as-code/terraform/README.md) |
+| What security and reliability risks exist? | [Threat model](security/threat-model.md) · [Operations playbook](operations/incident-response-playbook.md) |
+| How do we evaluate readiness and cost? | [Go-live checklist](tests-and-checklists/go-live-readiness-checklist.md) · [Cost discussion](case-study/09-cost-and-scaling-considerations.md) |
+| What is actually verified? | **[Validation and limitations](VALIDATION_AND_LIMITATIONS.md)** |
+
+**Reviewer walkthrough (10 minutes):** Read the requirements, inspect the architecture image, trace one data path through the platform, inspect its Terraform example, and test the operational assumptions against the threat model and readiness checklist.
+
+### Project status: architectural design and simulation
+
+NovaRetail is a fictional scenario. The repository contains **design documentation, Terraform source files, security/operational plans and readiness checklists**. A production deployment, validated multi-cloud Terraform apply, cost estimate from a live account, tested RTO/RPO, and regulatory compliance certification are **not claimed**. See the [evidence boundaries and optional non-deploying validation commands](VALIDATION_AND_LIMITATIONS.md).
+
+**Design trade-offs to review:** cross-cloud egress and latency; data residency; state and credential management; observability; ownership of incidents; replay/idempotency; budget and quota constraints. A multi-cloud design is justified only where its benefits outweigh the operational cost.
+
+[Portfolio website](https://jamiechristian22.github.io/) · [Cloud engineer portfolio](https://github.com/JamieChristian22/multi-cloud-engineer-portfolio) · [GitHub Sponsors](https://github.com/sponsors/JamieChristian22)
+
+---
+
 ## 📌 Business Scenario
 
 **NovaRetail** is a mid‑size global e‑commerce retailer:
