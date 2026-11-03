@@ -179,3 +179,6 @@ If you want a smooth narrative flow, read the documents in this order:
 8. `case-study/08-operations-monitoring-and-dr.md`  
 9. `case-study/09-cost-and-scaling-considerations.md`
 
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
