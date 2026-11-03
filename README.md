@@ -182,3 +182,7 @@ If you want a smooth narrative flow, read the documents in this order:
 ## License and third-party materials
 
 See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
+
+## Reviewer guide and asset provenance
+
+For project evidence navigation and an asset-rights review checklist, see [REVIEWER_GUIDE.md](REVIEWER_GUIDE.md). Sample asset entries still require independent origin and permission verification.
